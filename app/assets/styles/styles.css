@@ -4,13 +4,5 @@
 @import "base/_mixins";
 @import 'modules/_large-hero';
 @import 'modules/_btn';
-
-body {
-    font-family: 'Roboto', sans-serif;
-    color: #333;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-}
+@import 'modules/_wrapper';
+@import 'modules/_page-section';
